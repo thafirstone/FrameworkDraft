@@ -1,0 +1,7 @@
+phpdocker/README.html
+phpdocker/README.md
+vendor
+.php_cs.cache
+*.xml
+.idea
+.DS_Store
